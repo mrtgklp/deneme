@@ -9,5 +9,6 @@ public class Deneme {
         //Github 2.deneme
         //Murat Branch ile deneme
         //Murat
+        //master yorum
     }
 }
